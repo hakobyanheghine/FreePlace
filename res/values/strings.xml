@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Free Place</string>
+    <string name="app_id">1510473592533710</string>
+    <string name="login_with_fb">Login with Facebook</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_us">ABOUT US</string>
+    
+    <string name="add_review">Add Review</string>
+	<string name="rating_dialog_title">Leave your feedback!</string>
+    <string name="rating_dialog_hint">Your review .. </string>
+	<string name="done">Done</string>
+	
+	<string name="reserve">Reserve!</string>
+	
+	<string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+	    <string name="cafe">Cafe</string>
+    <string name="pub">Pub</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="bar">Bar</string>
+    <string name="club">Club</string>
+
+</resources>
